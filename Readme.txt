@@ -3,3 +3,4 @@
 03 -- conditional statement
 04 -- operators, type casting
 05 -- string, slicing, string functions
+06 -- List, List slicing, List methods
