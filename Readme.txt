@@ -5,3 +5,4 @@
 05 -- string, slicing, string functions
 06 -- List, List slicing, List methods
 07 -- Tuples, Tuples methods, Problem Question
+08 -- Dictionary, Nested Dictionary, Dictionary methods
