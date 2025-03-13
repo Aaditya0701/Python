@@ -4,5 +4,6 @@
 04 -- operators, type casting
 05 -- string, slicing, string functions
 06 -- List, List slicing, List methods
-07 -- Tuples, Tuples methods, Problem Question
+07 -- Tuples, Tuples methods, Problem Question (list and tuple)
 08 -- Dictionary, Nested Dictionary, Dictionary methods
+09 -- Sets, creating empty set, set methods, Problem Question (dictionary & set)
